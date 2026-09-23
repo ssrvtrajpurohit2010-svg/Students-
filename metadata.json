@@ -1,0 +1,6 @@
+{
+  "name": "Student Test Appointment & AI Tutor Hub",
+  "description": "Schedule mock tests, customize topics, take practice exams, get AI step-by-step solution explanations, and manage your ₹1/month subscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
